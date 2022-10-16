@@ -6,10 +6,13 @@
       / `ﾐ__X ﾉ     &#9;Occupation: student
      /       |      &#9;
     /  ヽ    ﾉ      &#9;Discord: Lil Ralphie#6191
-  _|   | |  |       &#9;Email: regularcat@protonmail.com
- /_|   | |  |
-|(_ \__\_)__)
+  _|   |  | |       &#9;Email: regularcat@protonmail.com
+ /_|   |  | |
+|(_ \__\__)_)
  \_)
+
+# wc -l /var/logs/access_log
+<!-- @(views) -->0<!-- @(views) --> /var/logs/access_log
 
 # _
 </pre>
